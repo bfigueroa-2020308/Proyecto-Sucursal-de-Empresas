@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_sucursales_empresa",
+  "version": "1.0.0",
+  "description": "BACK del proyecto de sucursales de empresas ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfigueroa-2020308/Proyecto-Sucursal-de-Empresas.git"
+  },
+  "author": "Byron Figueroa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bfigueroa-2020308/Proyecto-Sucursal-de-Empresas/issues"
+  },
+  "homepage": "https://github.com/bfigueroa-2020308/Proyecto-Sucursal-de-Empresas#readme"
+}
