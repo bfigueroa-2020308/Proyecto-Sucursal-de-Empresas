@@ -6,7 +6,7 @@ const productoSucursalSchema = {
     nombre : String,
     stock : Number,
     ventas : Number,
-    sucursal : {type: mongoose.Schema.ObjectID, ref:'Sucursal'}
+    sucursal : {type: mongoose.Schema.ObjectId, ref:'Sucursal'}
 }
 
 module.exports = mongoose.model('ProductoSucursal', productoSucursalSchema);
